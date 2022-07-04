@@ -1,4 +1,4 @@
-<h1>Hello,</br> I am pleased to welcome you to my portfolio. It is my honor to introduce myself as Efeoghene, a graduate of Anglia Ruskin University (UCP). I am a Help Desk Specialist with five years of experience providing technical support, managing IT operations, and helping users resolve technical problems. I have experience aligning end-user needs with long-term IT solutions.</h1>
+<h4>Hello,</br> Thank you for taking the time to visit my portfolio. My name is Efeoghene and I am a recent graduate of Anglia Ruskin University Peterborough, with five years of experience in Service Desk Support providing technical support, managing IT operations, and helping users resolve technical problems. I have experience aligning end-user needs with long-term IT solutions..</h4>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
