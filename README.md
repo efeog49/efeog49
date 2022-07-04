@@ -1,4 +1,4 @@
-<h4>Hello,</br> Thank you for taking the time to visit my portfolio. My name is Efeoghene and I am a recent graduate of Anglia Ruskin University Peterborough, with five years of experience in Service Desk Support providing technical support, managing IT operations, and helping users resolve technical problems. I have experience aligning end-user needs with long-term IT solutions..</h4>
+<h3>Hello,</br> Thank you for taking the time to visit my portfolio. My name is Efeoghene and I am a recent graduate of Anglia Ruskin University Peterborough, with five years of experience in Service Desk Support providing technical support, managing IT operations, and helping users resolve technical problems. I have experience aligning end-user needs with long-term IT solutions.</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
