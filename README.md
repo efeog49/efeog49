@@ -4,7 +4,7 @@
 
 - <b>A guide to installing and configuring Home Lab. </b>
   - [Oracle VM Virtualbox](https://github.com/efeog49/Active-Dirrectory-Lab)
-  - [Windows Server 2019](https://github.com/efeog49/Active-Dirrectory-Lab)
+  - [Windows Server 2019](https://github.com/efeog49/WindowServer2019)
   - [Microsoft Exchange Server](https://github.com/efeog49/Active-Dirrectory-Lab)
  
 - <b>Added Windows 10 client machine to Windows Server 2016 domain. </b>
