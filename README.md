@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Knowledge of System Administration(Hands-On Virtual Labs):</h2>
 
-- <b>A guide to installing and configuring Home Lab. </b>
+- <b>Getting Oracle VirtualBox up and running, installing and configuring Windows Server 2019, and Exchange on Oracle VM VirtualBox. </b>
   - [Oracle VM Virtualbox](https://github.com/efeog49/Active-Dirrectory-Lab)
   - [Windows Server 2019](https://github.com/efeog49/WindowServer2019)
   - [Microsoft Exchange Server](https://github.com/efeog49/Microsoft-Exchange-Server)
