@@ -1,4 +1,4 @@
-<h4>Hello and thank you for taking the time to visit my portfolio. My name is Efeoghene and I am a recent graduate of Computing and Information Systems from Anglia Ruskin University Peterborough, with over five years of experience in Service Desk providing technical support, managing IT operations, and helping users resolve technical problems. I have experience aligning end-user needs with long-term IT solutions.</h4>
+<h4>Hello and thank you for taking the time to visit my portfolio. My name is Efeoghene and I am a recent graduate of Computing and Information Systems from  University Centre Peterborough, with over five years of experience in Service Desk providing technical support, managing IT operations, and helping users resolve technical problems. I have experience aligning end-user needs with long-term IT solutions.</h4>
 
 <h2>👨‍💻 Knowledge of System Administration(Hands-On Virtual Labs):</h2>
 
