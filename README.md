@@ -20,8 +20,8 @@
 
 <h2>👨‍💻 Knowledge of Cisco Packet Tracer(Hands-On Virtual Labs):</h2>  
   
-  - <b>IPV4,IPV6 Addressing and routing configurations.</b>
-  - [Home Lab](https://github.com/efeog49/Packet-Tracer-Labs)
+ - <b>IPV4,IPV6 Addressing and routing configurations.</b>
+   - [Home Lab](https://github.com/efeog49/Packet-Tracer-Labs)
   
 
 
